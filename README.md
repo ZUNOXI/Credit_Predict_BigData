@@ -1,7 +1,6 @@
 # Credit_Predict
 Bank Loan Status Dataset / 
-Future Loan Status prediction via classification models
-
+Future Loan Status prediction via classification models!
 # for Korean user
  - "LoanStatus_anlysis" 소스로 데이터 정제 부터 모델을 학습시키고 테스트 하는 과정을 확인할 수 있습니다.
  - "Final Project" 소스를 참고하여 기존에 저장된 "pima.pickle.dat" 모델을 로드하여 테스트가 가능합니다.
