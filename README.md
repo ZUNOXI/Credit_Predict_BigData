@@ -12,5 +12,5 @@ Future Loan Status prediction via classification models!
 3. and finally it would be nice to confirm the prediction at 'Final Predict' with Web service(made by flask, node.js)
 4. there is a ppt_file, and it will make you understand this project easily. (but it made by korean..LOL)
 
-Try to contact : cross9308@naver.com
+Try to contact : cross9308@naver.com / dlwnsgh930821@gmail.com
 Data link : https://www.kaggle.com/zaurbegiev/my-dataset
