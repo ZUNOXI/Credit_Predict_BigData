@@ -14,3 +14,4 @@ Future Loan Status prediction via classification models!
 
 Try to contact : cross9308@naver.com / dlwnsgh930821@gmail.com
 Data link : https://www.kaggle.com/zaurbegiev/my-dataset
+let go~~
